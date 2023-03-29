@@ -17,12 +17,16 @@
   
   # Usage
     you can clone and fork this repo, my license allow for this
-
+  
+  
   # License
-  ![GitHub license](https://img.shields.io/badge/License-apache%20APACHE%202.0-blue)
+    This project is licensed under the GPL 3.0 license.
+
+  # License Badge
+  ![GitHub license](https://img.shields.io/badge/License-apache%20GPL%203.0-blue)
 
   # Link to License
-  [GitHub APACHE 2.0 Link license](https://choosealicense.com/licenses/apache-2.0)
+  [GitHub GPL 3.0 Link license](https://choosealicense.com/licenses/lgpl-3.0)
 
   # Contributing
     add code to enhance what is already created
@@ -32,6 +36,6 @@
     npm test
 
   # Questions
-  Please send email to r_ryde200@yahoo.com for any questions on this project. Here is a link to my Repo(https://github.com/rtolefree1/)
+  Please send email to ricky_tolefreejr@yahoo.com for any questions on this project. Here is a link to my Repo(https://github.com/rtolefree1/)
   
   

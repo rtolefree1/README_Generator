@@ -74,8 +74,11 @@ function init() {
        // console.log(generateMarkdown(returnValues))
         console.log('GENERATING README File...');
         console.log('Wait please while generating...');
-        setTimeout(writeFunction, 3000);
+
+        // using the setTimeout function to give user experience that something is being generated in background
+        setTimeout(writeFunction, 7000);
         
+        // after the setTimeout is complete then data is written to the README.md file
         function writeFunction(){
             writeToFile('./ReadMe_File/README.md', generateMarkdown(returnValues));
         }
