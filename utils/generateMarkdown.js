@@ -75,8 +75,7 @@ function renderLicenseSection(license)
   }
   else
   {
-    return `
-    # License
+    return `# License
     This project is NOT licensed.`;
   }
 }

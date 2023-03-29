@@ -62,6 +62,13 @@ I submitted the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README describing the project<br>
     https://github.com/rtolefree1/README_Generator
----
+    
 
+# Image of a License Chosen<br>
+[LicenseChosen](/utils/LicenseChosen.png)
+
+# Image of a License NOT Chosen<br>
+[LicenseNotChosen](/utils/LicenseNotChosen.png)
+
+---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
